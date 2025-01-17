@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alyssa, I'm a junior data engineer
-- 👀 I’m, of course, interested in data engineering 
+- 👀 I’m, of course, interested in data engineering and I know SQL
 - 🌱 I’m currently learning Python and advanced software like Kafka, Hadoop, Nifi
 - 📫 How to reach me: alisa13bold@gmail.com
 - ⚡ Fun fact: I used to work as a linguist and teacher of foreign languages. Let's see how it helps me with programming languages
